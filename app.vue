@@ -33,7 +33,7 @@
           href="mailto:be@nedikt.be"
           class="mt-8 text-gray-400 px-2 py-1 hover:text-white transition"
         >
-          Contact Me
+          ✉️ Contact Me
         </a>
         <p>With ♥️ build in Fürth, Germany.</p>
     </div>

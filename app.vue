@@ -11,7 +11,7 @@
       </p>
       <div class="flex flex-col gap-4 sm:flex-row ">
         <a
-          href="https://drive.google.com/file/d/1PMF2IZMV4R5pCDhbVri5Ed8tdJUwqZGl/view?usp=drive_link"
+          href="https://kdrive.infomaniak.com/app/share/1638485/c52b7228-8162-42d3-b7ad-1750453426d9"
           download
           style="background: linear-gradient(235deg,rgba(253, 29, 29, 1) 0%, rgba(252, 69, 203, 1) 100%);"
           class="bg-white text-white px-6 py-3 rounded-xl opacity-80 hover:opacity-100 transition"
@@ -20,6 +20,7 @@
         </a>
         <a
           href="https://kdrive.infomaniak.com/app/share/1638485/9acdd6c3-3aa1-4c30-a15b-e08e7db4645a"
+          target="_blank"
           download
           style="background: linear-gradient(203deg,rgba(230, 23, 23, 1) 0%, rgba(245, 108, 208, 1) 100%);"
           class="text-white px-6 py-3 rounded-xl opacity-80 hover:opacity-100  transition"

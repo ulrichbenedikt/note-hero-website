@@ -7,7 +7,7 @@
       <img src="/logo.png" alt="Note Hero Logo" class="w-32 h-32 mb-6" />
       <h1 class="text-4xl font-bold mb-4">Note Hero</h1>
       <p class="text-lg text-center max-w-md mb-8">
-        A minimalist note app for focused thinking. Markdown, client linking, shortcuts, and more. 
+        A minimalist note app for focused thinking. <br />Markdown, client linking, shortcuts, and more. 
       </p>
       <div class="flex flex-col gap-4 sm:flex-row ">
         <a

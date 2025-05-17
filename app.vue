@@ -1,4 +1,7 @@
-<!-- app.vue -->
+<script setup>
+import {mac, windows} from './downloads.json'
+</script>
+
 <template>
   
   <main class="min-h-screen bg-black text-white">
@@ -11,21 +14,21 @@
       </p>
       <div class="flex flex-col gap-4 sm:flex-row ">
         <a
-          href="https://kdrive.infomaniak.com/app/share/1638485/c52b7228-8162-42d3-b7ad-1750453426d9"
+          :href="mac.link"
           download
           style="background: linear-gradient(235deg,rgba(253, 29, 29, 1) 0%, rgba(252, 69, 203, 1) 100%);"
           class="bg-white text-white px-6 py-3 rounded-xl opacity-80 hover:opacity-100 transition"
         >
-          Download for macOS<sup>1</sup><br /><span class="text-xs">Version 1.1.0</span>
+          Download for macOS<sup>1</sup><br /><span class="text-xs">Version {{mac.version}}</span>
         </a>
         <a
-          href="https://kdrive.infomaniak.com/app/share/1638485/9acdd6c3-3aa1-4c30-a15b-e08e7db4645a"
+          :href="windows.link"
           target="_blank"
           download
           style="background: linear-gradient(203deg,rgba(230, 23, 23, 1) 0%, rgba(245, 108, 208, 1) 100%);"
           class="text-white px-6 py-3 rounded-xl opacity-80 hover:opacity-100  transition"
         >
-          Download for Windows<sup>1</sup><br /><span class="text-xs">Version 1.1.0</span>
+          Download for Windows<sup>1</sup><br /><span class="text-xs">Version {{windows.version}}</span>
         </a>
         
       </div>

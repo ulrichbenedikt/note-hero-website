@@ -32,12 +32,12 @@ import {mac, windows} from './downloads.json'
         </a>
         
       </div>
-      <p class="text-gray-400 text-xs mt-2">1) The buttons link you to kdrive from <a href="https://www.infomaniak.com/" target="_blank" class="underline">Infomaniak</a>, a secure and ethical, swiss data storage plattform.</p>
+      <p class="text-gray-400 text-xs mt-2">1) These buttons take you to kDrive by <a href="https://www.infomaniak.com/" target="_blank" class="underline">Infomaniak</a> — a secure, privacy-focused cloud storage service based in Switzerland and fully compliant with European data protection laws.</p>
       <a href="https://note-hero-app.nedikt.be"
           style="background: linear-gradient(255deg,rgba(253, 29, 29, 1) 0%, rgba(252, 69, 203, 1) 100%);"
           class="bg-white text-white mt-3 px-6 py-3 rounded-xl opacity-80 hover:opacity-100 transition">-> Or start now and use it online!</a>
       
-        <p class="mt-14">With ♥️ build in Fürth, Germany.</p>
+        <p class="mt-14">With ♥️ build in ☘️Fürth, Germany.</p>
         <a
           href="mailto:be@nedikt.be"
           class="text-white px-2 py-1 opacity-70 hover:opacity-100 transition"
